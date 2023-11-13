@@ -12,7 +12,7 @@ def main_finalCodeExample():
             #declare d
             d=4;
             A=B;
-            B=A; #$den xreiazetai#$
+            #$B=A; den xreiazetai#$
             print(A);
             return(c+d);
         #}
