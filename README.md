@@ -1,1 +1,2 @@
 # Compilers
+Introducing CutePy, our own programming language! We built it from the ground up, creating tools like a Lexical Analyzer and Syntax Analyzer. We then crafted an Intermediate Code and a handy Symbol Table. Finally, we translated it into assembly code and ran it on a RISC-V processor using the MARS program. It's a cool project that combines language design and practical coding, showcasing the magic of making our own programming language run on a processor.
